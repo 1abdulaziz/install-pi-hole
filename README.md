@@ -24,3 +24,8 @@ then we need to use nano to edit a file:
 - Follow the video to install pihole
 
 - https://youtu.be/ov8vb2nztmE
+
+
+```
+after finish set the ip manually
+```
