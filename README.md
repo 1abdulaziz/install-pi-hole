@@ -29,3 +29,8 @@ then we need to use nano to edit a file:
 ```
 after finish set the ip manually
 ```
+```
+ CPU usage 0.56% of 1 CPU(s)
+ Memory usage  512.00 MiB
+ Bootdisk size 4.00 GiB
+ ```
