@@ -9,18 +9,18 @@ Debian: https://www.debian.org/
 First, install debian or your linux distro of choice.
 Once you reach the command line...
 Install Sudo
-apt install sudo
+- apt install sudo
 
-give "yourself" sudo permissions
-usermod -aG sudo "yourusername"
+- give "yourself" sudo permissions
+- usermod -aG sudo "yourusername"
 
 Then change your dhcp to static
 navigate up:
 cd ..
 then we need to use nano to edit a file:
-nano etc/network/interfaces
-Change DHCP to static (see the video)
+- nano etc/network/interfaces
+- Change DHCP to static (see the video)
 
-Follow the video to install pihole
+- Follow the video to install pihole
 
-https://youtu.be/ov8vb2nztmE
+- https://youtu.be/ov8vb2nztmE
